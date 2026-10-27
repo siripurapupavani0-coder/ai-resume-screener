@@ -1,6 +1,6 @@
 # AI-Based Resume Screening System
-Tech: Python, NLP, MySQL, HTML/CSS
+Tech: Python, DBMS, Java
 
 - Filters 100+ resumes by job keywords with 85% accuracy
-- Recruiter dashboard to rank and shortlist candidates
+- Used Python and DBMS concepts for data storage and filtering
 - Reduced shortlisting time by 60%
